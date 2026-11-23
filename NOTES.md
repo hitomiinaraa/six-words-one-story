@@ -5,3 +5,4 @@ Every word earns its place: no word can be cut without losing the story.
 The reader fills in what the letter said and who wrote it.
 Build: main.ts writes the story to /output/entry.txt and validates exactly six words.
 Determinism: main.ts ran twice with identical output.
+Revision: the story was kept at exactly six words through every fix; nothing was added or cut.
