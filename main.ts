@@ -1,3 +1,4 @@
+// Six words, one complete story — the letter arrives too late.
 import { mkdir, writeFile } from "node:fs/promises";
 
 const story = "The letter arrived. After the funeral.";
